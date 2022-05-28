@@ -1,0 +1,7 @@
+# Project exclude paths
+/ClusterLayer/target/
+/ProtocolLayer/target/
+/Proxy/target/
+/Test/target/
+/TransportLayer/target/
+/Util/target/
